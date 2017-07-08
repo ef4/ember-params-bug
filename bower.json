@@ -1,0 +1,9 @@
+{
+  "name": "sample",
+  "dependencies": {
+    "ember": "beta"
+  },
+  "resolutions": {
+    "ember": "beta"
+  }
+}
